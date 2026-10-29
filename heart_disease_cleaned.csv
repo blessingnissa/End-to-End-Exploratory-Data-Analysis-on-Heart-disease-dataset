@@ -1,0 +1,1026 @@
+patient_id,age,sex,chest_pain_type,resting_bp,cholesterol,fasting_blood_sugar,max_heart_rate,exercise_angina,smoker,bmi,heart_disease
+465,40,Male,asymptomatic,128.0,194.0,0,141.0,No,No,23.3,0
+621,55,Female,asymptomatic,120.0,287.0,0,187.0,Yes,No,30.0,0
+163,48,Female,non-anginal,152.0,155.0,0,151.0,No,No,24.0,0
+314,56,Female,non-anginal,121.0,220.0,0,136.0,Yes,No,28.2,0
+593,69,Male,typical angina,150.0,210.0,0,129.0,No,No,28.4,1
+927,60,Male,atypical angina,142.0,194.0,1,155.0,No,No,26.5,0
+757,44,Female,non-anginal,127.0,223.0,0,162.0,Yes,Yes,23.4,0
+13,48,Male,non-anginal,132.0,270.0,0,151.0,Yes,No,28.8,0
+709,58,Male,non-anginal,125.0,238.0,0,157.0,Yes,Yes,25.8,0
+453,58,Male,asymptomatic,135.0,275.0,0,160.0,No,No,27.6,0
+603,57,Male,asymptomatic,,174.0,0,134.0,Yes,Yes,21.6,1
+257,57,Male,asymptomatic,99.0,252.0,0,185.0,Yes,No,23.5,0
+468,65,Female,non-anginal,145.0,164.0,0,153.0,No,No,30.7,0
+158,150,Female,asymptomatic,121.0,211.0,1,174.0,Yes,Yes,29.4,0
+291,40,Male,non-anginal,125.0,270.0,0,144.0,No,No,26.6,1
+583,70,Female,atypical angina,155.0,203.0,0,128.0,No,No,26.7,0
+481,70,Female,asymptomatic,159.0,220.0,0,154.0,Yes,Yes,31.7,1
+22,62,Female,asymptomatic,144.0,254.0,0,181.0,Yes,No,29.5,0
+601,61,Female,non-anginal,131.0,319.0,0,151.0,No,No,26.5,0
+152,61,Male,non-anginal,123.0,301.0,0,168.0,No,No,24.2,0
+85,59,Male,non-anginal,130.0,232.0,0,152.0,Yes,No,23.7,0
+139,53,Female,asymptomatic,141.0,227.0,0,176.0,No,No,28.3,0
+537,65,Male,asymptomatic,155.0,175.0,0,129.0,No,Yes,22.6,0
+539,43,Male,asymptomatic,116.0,198.0,0,177.0,No,No,22.1,0
+322,61,Male,atypical angina,124.0,229.0,0,168.0,No,No,24.2,0
+676,52,Female,atypical angina,131.0,200.0,0,122.0,Yes,No,25.1,0
+415,42,Female,non-anginal,121.0,271.0,0,183.0,No,Yes,29.0,0
+376,54,Female,non-anginal,132.0,311.0,0,140.0,No,No,28.3,0
+476,60,Female,non-anginal,140.0,205.0,0,149.0,No,No,23.7,0
+178,50,Male,atypical angina,116.0,155.0,0,165.0,No,No,38.9,0
+808,45,Male,non-anginal,90.0,264.0,0,153.0,No,No,27.0,0
+916,45,Female,asymptomatic,134.0,243.0,0,184.0,No,No,20.6,0
+412,49,Male,non-anginal,127.0,230.0,0,162.0,No,No,25.3,0
+626,49,Male,atypical angina,99.0,295.0,0,172.0,No,Yes,21.2,0
+779,999,Female,asymptomatic,108.0,240.0,0,173.0,Yes,No,26.8,1
+328,44,Male,non-anginal,143.0,197.0,0,178.0,No,No,20.9,0
+432,45,Female,asymptomatic,145.0,239.0,0,154.0,No,No,21.1,0
+723,57,Female,non-anginal,119.0,147.0,0,168.0,No,No,21.3,0
+530,58,Male,asymptomatic,150.0,224.0,1,157.0,No,No,21.7,0
+551,64,Male,asymptomatic,141.0,218.0,0,133.0,No,Yes,20.5,0
+525,68,Male,non-anginal,143.0,176.0,0,149.0,No,Yes,30.6,0
+234,44,Female,asymptomatic,122.0,,1,179.0,No,Yes,30.4,1
+868,52,Female,non-anginal,141.0,263.0,1,,No,No,35.9,0
+437,44,Male,non-anginal,118.0,286.0,0,151.0,No,No,31.0,0
+740,57,Male,typical angina,110.0,202.0,0,150.0,No,No,23.8,1
+17,54,Male,asymptomatic,,230.0,0,179.0,No,No,37.0,0
+347,70,Male,non-anginal,123.0,165.0,1,159.0,No,Yes,28.0,0
+900,66,Male,asymptomatic,154.0,185.0,0,149.0,Yes,No,27.4,0
+813,52,Male,non-anginal,115.0,220.0,0,149.0,No,No,29.2,0
+320,45,Male,asymptomatic,145.0,268.0,0,156.0,Yes,No,27.8,0
+124,53,Male,asymptomatic,117.0,222.0,1,149.0,Yes,No,25.8,0
+160,64,Male,non-anginal,143.0,275.0,0,155.0,Yes,No,29.5,0
+545,52,Male,atypical angina,121.0,165.0,0,151.0,Yes,No,27.7,0
+597,48,Female,atypical angina,151.0,215.0,0,133.0,No,Yes,29.2,0
+68,48,Male,asymptomatic,109.0,212.0,0,157.0,No,No,27.7,0
+319,60,Female,typical angina,180.0,174.0,0,137.0,Yes,No,34.3,0
+955,58,Male,atypical angina,122.0,329.0,0,149.0,No,No,32.0,0
+464,48,Female,asymptomatic,126.0,207.0,0,175.0,Yes,Yes,23.6,0
+379,56,Female,asymptomatic,96.0,195.0,0,136.0,Yes,Yes,26.4,1
+1008,58,Male,asymptomatic,128.0,195.0,0,156.0,Yes,Yes,23.9,0
+287,51,Male,non-anginal,106.0,164.0,1,163.0,No,No,25.3,0
+441,57,Male,non-anginal,105.0,259.0,0,144.0,No,No,27.4,0
+786,59,Male,atypical angina,137.0,223.0,0,126.0,No,No,29.5,0
+454,66,Female,asymptomatic,141.0,222.0,0,,No,Yes,25.7,0
+348,66,Female,atypical angina,143.0,316.0,0,148.0,No,No,25.4,0
+641,58,Male,asymptomatic,134.0,334.0,0,143.0,No,No,32.5,0
+776,47,Female,asymptomatic,131.0,160.0,0,184.0,No,No,26.8,0
+980,44,Male,atypical angina,131.0,221.0,0,148.0,Yes,No,35.2,0
+66,59,Female,non-anginal,128.0,328.0,0,152.0,No,No,23.2,0
+817,47,Male,asymptomatic,144.0,292.0,0,166.0,Yes,Yes,21.4,1
+341,34,Male,non-anginal,117.0,160.0,0,184.0,No,No,35.6,0
+832,70,Female,typical angina,109.0,201.0,0,124.0,No,Yes,31.0,0
+761,51,Male,atypical angina,122.0,305.0,0,134.0,No,No,26.2,0
+491,52,Male,atypical angina,117.0,240.0,0,180.0,No,No,17.0,0
+972,40,Female,atypical angina,139.0,214.0,0,170.0,No,No,22.7,0
+546,50,Female,atypical angina,168.0,185.0,0,159.0,No,No,30.2,0
+164,58,Male,non-anginal,132.0,241.0,1,145.0,No,No,32.2,0
+28,68,Male,typical angina,146.0,152.0,0,140.0,No,No,28.6,0
+170,49,Male,atypical angina,107.0,145.0,0,183.0,No,Yes,26.7,0
+187,64,Male,asymptomatic,130.0,286.0,1,177.0,No,No,30.6,0
+681,49,Male,asymptomatic,122.0,169.0,0,169.0,No,No,26.1,0
+127,44,Male,typical angina,109.0,202.0,0,157.0,No,No,18.3,0
+72,65,Female,non-anginal,135.0,190.0,1,123.0,No,No,30.0,0
+327,78,Male,atypical angina,110.0,237.0,0,133.0,No,No,30.9,0
+876,52,Female,asymptomatic,112.0,267.0,0,164.0,No,No,23.7,0
+165,54,Male,asymptomatic,129.0,211.0,0,131.0,Yes,No,31.4,1
+208,52,Female,asymptomatic,127.0,214.0,0,166.0,No,No,30.7,0
+503,45,Female,asymptomatic,133.0,257.0,0,,Yes,Yes,27.9,0
+598,50,Female,non-anginal,157.0,224.0,0,126.0,Yes,No,25.4,0
+782,52,Male,non-anginal,119.0,312.0,0,123.0,No,No,31.6,0
+39,55,Male,atypical angina,143.0,254.0,0,146.0,No,Yes,22.4,0
+96,53,Male,typical angina,113.0,290.0,0,150.0,Yes,No,24.6,0
+535,66,Female,atypical angina,122.0,228.0,0,125.0,No,Yes,25.2,0
+289,58,Male,atypical angina,130.0,246.0,0,176.0,No,No,21.5,0
+928,54,Male,asymptomatic,132.0,183.0,0,158.0,No,No,35.0,0
+241,57,Male,asymptomatic,133.0,220.0,0,125.0,No,No,30.8,1
+729,59,Male,atypical angina,130.0,192.0,0,160.0,No,Yes,20.9,0
+60,52,Female,non-anginal,147.0,213.0,0,162.0,No,No,29.6,0
+282,52,Female,asymptomatic,115.0,275.0,0,173.0,Yes,No,26.8,0
+80,71,Female,non-anginal,166.0,227.0,0,141.0,No,No,25.8,0
+946,47,Female,atypical angina,136.0,262.0,0,160.0,No,No,28.8,0
+604,55,Male,asymptomatic,147.0,215.0,0,169.0,Yes,No,21.1,1
+829,51,Female,asymptomatic,119.0,271.0,0,168.0,No,No,25.0,0
+133,57,Male,asymptomatic,110.0,330.0,0,161.0,No,No,29.6,0
+211,41,Male,asymptomatic,114.0,219.0,0,171.0,Yes,Yes,29.1,0
+431,44,Female,asymptomatic,115.0,236.0,0,180.0,Yes,No,28.4,0
+635,39,Female,non-anginal,109.0,263.0,0,187.0,No,Yes,22.2,0
+882,52,Male,non-anginal,165.0,302.0,0,121.0,No,Yes,33.6,1
+699,60,Male,asymptomatic,113.0,,0,165.0,No,No,33.6,0
+222,50,Male,typical angina,113.0,221.0,0,173.0,No,No,32.2,0
+658,58,Male,asymptomatic,134.0,148.0,0,169.0,No,No,31.4,0
+1001,61,Male,atypical angina,91.0,307.0,0,159.0,No,Yes,25.7,0
+921,53,Male,non-anginal,115.0,248.0,0,146.0,No,No,33.4,0
+67,67,Male,atypical angina,104.0,299.0,0,150.0,No,No,21.7,0
+344,61,Male,typical angina,152.0,212.0,0,143.0,No,Yes,26.7,0
+578,41,Male,asymptomatic,120.0,158.0,0,163.0,No,No,20.5,0
+781,61,Male,atypical angina,133.0,183.0,0,141.0,No,Yes,,0
+118,49,Female,asymptomatic,148.0,237.0,0,172.0,Yes,No,28.0,0
+875,35,Female,non-anginal,125.0,186.0,0,,No,Yes,27.1,0
+948,60,Male,atypical angina,148.0,329.0,1,165.0,No,No,23.9,0
+973,59,Male,asymptomatic,146.0,207.0,0,138.0,No,Yes,26.4,0
+561,50,Male,atypical angina,120.0,206.0,0,167.0,No,No,32.8,0
+630,59,Male,typical angina,190.0,0.0,0,149.0,No,No,21.7,0
+349,69,Male,asymptomatic,116.0,190.0,0,161.0,Yes,No,33.4,0
+693,46,Male,asymptomatic,141.0,230.0,0,134.0,Yes,No,,0
+317,45,Female,typical angina,100.0,313.0,0,156.0,No,No,19.1,0
+856,51,Male,typical angina,130.0,315.0,0,131.0,No,Yes,35.4,0
+834,44,Male,asymptomatic,159.0,195.0,0,165.0,No,Yes,20.1,0
+825,59,Female,typical angina,,205.0,1,157.0,Yes,No,30.2,0
+369,63,Female,typical angina,135.0,204.0,0,122.0,No,Yes,21.0,0
+47,66,Female,non-anginal,169.0,337.0,0,135.0,No,No,,0
+975,41,Female,typical angina,142.0,357.0,0,159.0,No,No,27.9,1
+121,61,Male,atypical angina,114.0,,1,153.0,Yes,No,34.0,0
+478,58,Male,asymptomatic,158.0,243.0,0,162.0,Yes,No,23.3,0
+174,54,Male,asymptomatic,116.0,,1,148.0,Yes,No,29.8,0
+1012,57,Male,non-anginal,111.0,263.0,0,158.0,No,No,25.3,1
+198,60,Male,asymptomatic,95.0,194.0,0,142.0,Yes,Yes,27.2,1
+452,41,Female,non-anginal,116.0,210.0,0,,No,No,32.1,0
+717,41,Male,typical angina,122.0,0.0,0,165.0,Yes,Yes,27.1,0
+156,59,Male,atypical angina,136.0,262.0,0,152.0,No,No,23.0,0
+694,50,Female,atypical angina,118.0,224.0,0,165.0,No,No,22.7,0
+592,48,Male,atypical angina,148.0,251.0,0,125.0,No,No,26.5,0
+30,48,Female,atypical angina,135.0,222.0,0,180.0,Yes,No,24.2,0
+89,44,Female,atypical angina,132.0,218.0,1,160.0,No,No,28.1,0
+388,48,Male,non-anginal,139.0,277.0,0,187.0,No,No,29.9,0
+902,71,Female,asymptomatic,129.0,144.0,0,160.0,Yes,No,28.3,0
+923,53,Male,asymptomatic,149.0,187.0,0,149.0,Yes,No,29.6,1
+125,52,Female,asymptomatic,143.0,233.0,0,164.0,Yes,No,28.5,0
+839,55,Male,typical angina,131.0,275.0,0,146.0,No,No,,0
+392,49,Male,typical angina,,276.0,0,165.0,No,No,28.3,0
+806,47,Female,asymptomatic,111.0,292.0,0,185.0,No,No,27.5,0
+346,42,Male,atypical angina,146.0,255.0,0,161.0,No,Yes,28.9,0
+802,58,Male,asymptomatic,127.0,263.0,0,175.0,No,No,26.1,0
+888,39,Male,non-anginal,120.0,275.0,0,192.0,No,No,28.1,0
+429,49,Male,non-anginal,133.0,241.0,0,170.0,No,No,,0
+75,47,Male,atypical angina,128.0,,0,148.0,No,No,32.1,0
+540,61,Female,asymptomatic,107.0,,0,137.0,Yes,No,22.3,0
+821,40,Male,non-anginal,138.0,257.0,0,187.0,Yes,No,27.8,0
+111,63,Male,asymptomatic,135.0,215.0,0,165.0,No,No,20.0,1
+83,46,Female,non-anginal,127.0,202.0,0,179.0,No,No,21.4,0
+824,54,Male,asymptomatic,121.0,198.0,0,144.0,No,No,23.9,0
+270,58,Male,asymptomatic,130.0,259.0,1,177.0,Yes,No,24.1,0
+571,55,Female,non-anginal,147.0,311.0,0,161.0,No,No,27.7,0
+2,59,Male,asymptomatic,136.0,300.0,0,182.0,Yes,No,28.0,1
+1020,60,Male,atypical angina,148.0,329.0,1,165.0,No,No,23.9,0
+398,67,Female,typical angina,123.0,229.0,0,164.0,No,Yes,21.4,0
+943,57,Male,asymptomatic,132.0,213.0,0,140.0,No,No,29.2,0
+91,47,Male,atypical angina,122.0,241.0,0,,No,No,28.4,0
+702,70,Male,asymptomatic,103.0,294.0,0,147.0,No,Yes,26.9,0
+768,50,Male,asymptomatic,157.0,189.0,0,162.0,No,No,23.3,0
+951,47,Male,typical angina,119.0,166.0,0,155.0,No,No,26.2,0
+180,54,Male,asymptomatic,133.0,237.0,0,138.0,No,No,25.6,0
+686,52,Male,typical angina,153.0,327.0,0,179.0,No,No,22.1,0
+716,74,Male,atypical angina,143.0,255.0,0,130.0,No,No,26.9,0
+214,58,Male,atypical angina,134.0,307.0,0,172.0,No,No,31.1,0
+56,46,Female,non-anginal,129.0,164.0,0,166.0,No,Yes,26.1,0
+804,49,Male,non-anginal,141.0,229.0,0,159.0,No,No,34.0,0
+113,58,Female,asymptomatic,119.0,246.0,0,109.0,No,No,24.0,0
+895,44,Male,non-anginal,,228.0,0,153.0,No,No,27.2,0
+188,50,Male,atypical angina,145.0,252.0,0,153.0,No,No,29.1,0
+941,45,Female,asymptomatic,142.0,250.0,0,162.0,No,No,19.9,0
+619,60,Male,non-anginal,136.0,305.0,0,146.0,No,Yes,28.3,0
+638,58,Male,asymptomatic,111.0,247.0,0,135.0,Yes,No,29.6,1
+205,65,Female,typical angina,,229.0,0,97.0,No,No,32.3,0
+1015,56,Female,asymptomatic,144.0,183.0,1,200.0,No,No,29.5,0
+337,54,Male,asymptomatic,124.0,276.0,0,148.0,Yes,No,27.8,0
+678,46,Female,asymptomatic,129.0,253.0,0,187.0,No,No,23.3,0
+477,49,Male,non-anginal,133.0,230.0,0,161.0,No,Yes,26.2,0
+53,39,Male,typical angina,99.0,233.0,0,156.0,No,Yes,25.9,0
+428,46,Male,typical angina,124.0,254.0,0,160.0,No,No,24.0,0
+990,64,Male,typical angina,127.0,267.0,0,,Yes,No,34.3,0
+419,47,Male,non-anginal,138.0,233.0,0,166.0,No,No,29.4,1
+898,49,Female,non-anginal,110.0,252.0,1,158.0,No,Yes,29.3,0
+261,50,Male,typical angina,120.0,273.0,0,136.0,No,No,,0
+207,50,Male,non-anginal,132.0,264.0,1,151.0,No,Yes,21.7,0
+863,46,Male,asymptomatic,,222.0,0,151.0,No,No,,0
+73,69,Male,typical angina,149.0,290.0,0,145.0,No,No,29.6,0
+650,55,Male,asymptomatic,147.0,271.0,0,161.0,No,No,31.0,0
+213,59,Female,atypical angina,127.0,215.0,0,148.0,No,Yes,26.8,0
+728,54,Female,atypical angina,112.0,155.0,0,126.0,No,No,,0
+129,61,Male,asymptomatic,141.0,204.0,0,169.0,No,No,24.8,0
+562,56,Male,asymptomatic,139.0,255.0,0,142.0,No,Yes,26.1,0
+705,50,Female,asymptomatic,126.0,120.0,0,175.0,No,Yes,21.1,0
+790,60,Male,non-anginal,135.0,240.0,1,139.0,Yes,Yes,30.3,1
+136,37,Female,asymptomatic,129.0,232.0,0,,Yes,Yes,28.3,0
+177,64,Male,non-anginal,123.0,183.0,0,145.0,Yes,No,27.8,0
+906,58,Female,atypical angina,156.0,262.0,0,162.0,No,Yes,25.9,0
+801,41,Male,atypical angina,,175.0,0,178.0,Yes,No,23.6,0
+936,58,Female,asymptomatic,127.0,294.0,0,142.0,Yes,Yes,23.4,0
+762,60,Female,asymptomatic,123.0,279.0,0,147.0,Yes,Yes,25.3,0
+764,51,Male,typical angina,134.0,215.0,0,141.0,No,Yes,2.1,0
+440,38,Female,asymptomatic,148.0,224.0,1,,Yes,Yes,33.8,0
+803,44,Male,atypical angina,135.0,172.0,0,176.0,Yes,Yes,25.1,0
+463,58,Female,asymptomatic,109.0,256.0,0,166.0,Yes,No,28.1,1
+81,48,Female,asymptomatic,137.0,253.0,1,178.0,Yes,No,22.6,1
+944,64,Male,asymptomatic,123.0,242.0,0,142.0,No,No,31.0,0
+526,47,Female,asymptomatic,152.0,239.0,0,152.0,No,Yes,24.2,0
+79,34,Female,typical angina,131.0,173.0,0,174.0,No,Yes,25.7,0
+880,56,Male,non-anginal,130.0,256.0,1,149.0,Yes,No,21.5,0
+450,54,Male,non-anginal,122.0,239.0,0,195.0,No,No,22.3,0
+797,64,Male,asymptomatic,136.0,251.0,0,134.0,Yes,No,22.6,0
+239,55,Male,atypical angina,126.0,283.0,0,168.0,No,Yes,,0
+325,44,Female,asymptomatic,136.0,278.0,0,183.0,No,No,20.5,0
+519,47,Female,asymptomatic,97.0,245.0,0,147.0,No,No,22.0,0
+899,52,Male,asymptomatic,153.0,253.0,0,126.0,No,No,26.8,0
+3,61,Male,asymptomatic,146.0,185.0,0,147.0,Yes,Yes,2.1,0
+926,50,Female,asymptomatic,140.0,200.0,0,194.0,Yes,No,29.2,1
+499,51,Male,asymptomatic,135.0,232.0,0,,No,Yes,24.6,0
+202,59,Male,atypical angina,124.0,173.0,0,133.0,No,No,30.6,0
+62,58,Male,asymptomatic,125.0,238.0,0,140.0,Yes,No,26.2,0
+427,47,Female,atypical angina,132.0,266.0,0,154.0,No,No,25.8,1
+1010,53,Male,non-anginal,115.0,248.0,0,146.0,No,No,33.4,0
+653,51,Male,asymptomatic,136.0,259.0,1,179.0,No,Yes,26.5,0
+405,46,Male,asymptomatic,123.0,238.0,0,152.0,No,Yes,27.7,0
+370,29,Male,non-anginal,115.0,259.0,0,202.0,No,No,25.9,0
+759,50,Female,non-anginal,124.0,180.0,0,169.0,No,No,30.7,0
+949,56,Male,asymptomatic,97.0,262.0,0,172.0,Yes,No,20.2,0
+958,56,Female,asymptomatic,144.0,183.0,1,200.0,No,No,29.5,0
+666,70,Male,non-anginal,130.0,189.0,0,140.0,No,Yes,,0
+50,52,Female,atypical angina,136.0,317.0,0,177.0,Yes,Yes,28.2,0
+294,53,Male,asymptomatic,120.0,206.0,0,164.0,Yes,No,27.5,1
+910,45,Male,asymptomatic,105.0,159.0,1,150.0,Yes,No,31.4,0
+215,67,Female,typical angina,128.0,,1,124.0,No,No,27.9,0
+903,52,Female,non-anginal,129.0,213.0,0,156.0,Yes,No,26.2,0
+673,49,Male,asymptomatic,123.0,,0,196.0,No,No,31.5,0
+815,54,Male,typical angina,118.0,218.0,0,142.0,No,No,32.5,0
+247,46,Female,asymptomatic,119.0,214.0,0,160.0,No,Yes,18.4,0
+493,46,Male,typical angina,127.0,240.0,0,139.0,No,No,23.2,0
+185,48,Male,asymptomatic,136.0,158.0,0,176.0,No,No,,0
+480,42,Male,non-anginal,124.0,238.0,0,162.0,No,No,,0
+485,59,Female,asymptomatic,128.0,311.0,0,166.0,Yes,Yes,25.4,0
+389,47,Male,typical angina,132.0,245.0,0,179.0,No,No,27.4,0
+138,44,Male,non-anginal,134.0,265.0,0,154.0,No,No,31.4,0
+780,64,Male,asymptomatic,,263.0,0,152.0,Yes,No,28.2,1
+191,54,Female,non-anginal,146.0,275.0,0,131.0,No,No,31.6,0
+442,50,Male,non-anginal,136.0,203.0,0,141.0,No,No,29.6,0
+46,63,Male,typical angina,125.0,307.0,0,126.0,No,Yes,17.7,0
+940,60,Male,asymptomatic,122.0,212.0,0,161.0,Yes,Yes,17.0,1
+488,30,Female,atypical angina,110.0,262.0,0,201.0,No,Yes,28.6,0
+722,49,Male,atypical angina,146.0,208.0,1,139.0,Yes,No,18.5,0
+217,59,Female,asymptomatic,139.0,249.0,0,137.0,Yes,No,31.0,1
+724,53,Male,non-anginal,,141.0,0,131.0,No,Yes,98.5,0
+76,61,Female,asymptomatic,130.0,300.0,0,149.0,Yes,No,27.3,0
+968,31,Female,asymptomatic,131.0,132.0,0,197.0,No,No,23.0,0
+590,54,Male,non-anginal,100.0,265.0,0,164.0,No,No,22.5,0
+859,43,Female,asymptomatic,134.0,230.0,0,129.0,Yes,No,22.1,1
+240,41,Female,asymptomatic,153.0,221.0,0,149.0,Yes,No,26.5,0
+439,65,Male,asymptomatic,124.0,267.0,0,130.0,Yes,No,21.1,1
+892,62,Male,atypical angina,124.0,260.0,0,145.0,No,No,23.4,0
+987,59,Female,typical angina,110.0,216.0,0,140.0,No,No,25.5,0
+12,69,Male,non-anginal,161.0,,0,156.0,No,No,20.4,0
+6,66,Male,atypical angina,151.0,172.0,0,160.0,No,No,27.1,0
+173,49,Male,non-anginal,165.0,310.0,0,181.0,No,No,2.1,0
+840,39,Male,asymptomatic,129.0,300.0,0,172.0,Yes,No,27.7,0
+737,65,Female,asymptomatic,133.0,223.0,1,155.0,Yes,No,24.4,0
+350,68,Male,asymptomatic,147.0,223.0,0,138.0,Yes,No,22.4,0
+908,58,Male,asymptomatic,128.0,195.0,0,156.0,Yes,Yes,23.9,0
+890,56,Male,atypical angina,148.0,239.0,0,197.0,No,No,25.7,0
+59,42,Male,atypical angina,300.0,143.0,0,176.0,No,No,19.2,0
+819,51,Male,asymptomatic,159.0,223.0,0,128.0,No,No,28.0,0
+618,47,Female,atypical angina,117.0,285.0,0,149.0,No,No,21.9,0
+362,31,Female,asymptomatic,103.0,182.0,0,158.0,Yes,Yes,31.3,0
+258,58,Male,atypical angina,133.0,207.0,0,183.0,No,Yes,21.5,0
+1002,63,Male,asymptomatic,114.0,172.0,0,122.0,Yes,No,21.2,0
+396,35,Male,asymptomatic,136.0,179.0,0,154.0,Yes,No,35.3,0
+932,46,Male,asymptomatic,118.0,259.0,0,161.0,Yes,No,26.0,0
+707,59,Male,non-anginal,142.0,,0,158.0,No,No,25.9,0
+738,51,Male,atypical angina,94.0,176.0,0,202.0,No,Yes,20.2,0
+482,50,Female,non-anginal,141.0,228.0,1,120.0,No,Yes,26.9,0
+771,50,Male,typical angina,134.0,184.0,0,,Yes,No,36.0,0
+331,60,Male,atypical angina,116.0,202.0,1,146.0,Yes,No,28.6,0
+201,59,Male,asymptomatic,140.0,251.0,0,148.0,Yes,No,21.4,0
+538,61,Female,typical angina,120.0,291.0,0,,Yes,No,20.4,0
+82,62,Male,asymptomatic,158.0,329.0,0,141.0,Yes,No,19.3,1
+952,58,Female,non-anginal,148.0,204.0,1,155.0,No,Yes,29.0,0
+417,150,Male,non-anginal,132.0,302.0,0,129.0,No,No,22.5,0
+106,55,Male,non-anginal,117.0,,0,161.0,No,No,28.7,0
+137,52,Female,atypical angina,116.0,278.0,0,145.0,Yes,Yes,19.2,0
+51,66,Male,atypical angina,127.0,177.0,0,147.0,No,No,30.9,0
+577,58,Male,typical angina,138.0,230.0,0,162.0,No,No,27.9,0
+862,51,Male,non-anginal,133.0,126.0,0,190.0,No,Yes,,0
+383,48,Female,asymptomatic,127.0,353.0,0,139.0,No,No,26.4,0
+529,58,Male,atypical angina,112.0,251.0,0,149.0,Yes,No,29.3,0
+509,56,Female,non-anginal,138.0,232.0,0,127.0,No,No,30.7,0
+907,57,Female,asymptomatic,111.0,,0,142.0,No,Yes,30.6,1
+8,48,Female,non-anginal,132.0,239.0,1,140.0,Yes,No,29.2,0
+343,55,Male,asymptomatic,105.0,226.0,1,167.0,No,No,23.6,0
+42,51,Male,typical angina,121.0,249.0,0,175.0,No,No,27.9,0
+953,55,Male,non-anginal,136.0,248.0,0,,No,Yes,23.9,0
+414,57,Female,non-anginal,123.0,251.0,0,133.0,No,Yes,24.5,0
+942,64,Female,non-anginal,111.0,294.0,0,129.0,No,Yes,28.2,0
+271,59,Male,asymptomatic,156.0,186.0,0,131.0,No,No,25.3,0
+508,74,Male,non-anginal,113.0,246.0,0,131.0,Yes,Yes,23.8,1
+71,46,Male,asymptomatic,,154.0,0,152.0,No,No,33.0,1
+38,63,Female,atypical angina,144.0,187.0,0,147.0,No,No,23.9,0
+810,50,Male,asymptomatic,129.0,277.0,0,175.0,Yes,Yes,31.7,1
+523,64,Male,non-anginal,136.0,197.0,0,135.0,No,No,31.2,0
+1000,33,Male,asymptomatic,98.0,176.0,0,167.0,Yes,No,26.4,0
+649,55,Male,asymptomatic,124.0,279.0,0,184.0,Yes,No,31.3,1
+226,63,Female,non-anginal,129.0,239.0,0,148.0,Yes,Yes,30.8,0
+37,64,Male,asymptomatic,135.0,334.0,0,155.0,No,Yes,36.9,0
+74,55,Male,asymptomatic,131.0,272.0,1,167.0,Yes,No,36.8,0
+92,55,Male,atypical angina,139.0,178.0,0,141.0,No,No,25.9,0
+629,59,Male,atypical angina,139.0,228.0,1,162.0,No,No,23.3,0
+655,65,Male,typical angina,131.0,177.0,0,138.0,No,No,24.1,1
+534,44,Female,asymptomatic,110.0,286.0,0,202.0,No,No,17.7,0
+266,41,Male,non-anginal,110.0,273.0,0,183.0,Yes,Yes,27.3,0
+997,58,Male,asymptomatic,154.0,236.0,0,130.0,No,Yes,20.7,0
+512,57,Male,typical angina,108.0,247.0,0,173.0,No,No,25.4,0
+179,56,Male,asymptomatic,114.0,,0,158.0,No,No,,0
+504,39,Male,non-anginal,151.0,266.0,0,155.0,No,No,25.3,0
+326,45,Male,non-anginal,141.0,247.0,1,174.0,No,No,27.9,0
+628,47,Male,asymptomatic,132.0,191.0,0,168.0,Yes,No,24.4,1
+252,52,Female,atypical angina,111.0,196.0,0,198.0,No,Yes,22.2,0
+1017,46,Male,non-anginal,111.0,221.0,0,,No,No,20.5,0
+288,40,Female,atypical angina,127.0,204.0,0,202.0,No,No,32.9,0
+364,73,Male,non-anginal,126.0,263.0,0,155.0,No,Yes,22.7,0
+225,56,Male,non-anginal,40.0,227.0,0,141.0,No,No,24.4,0
+568,61,Female,asymptomatic,131.0,269.0,0,151.0,Yes,Yes,26.0,0
+299,41,Male,asymptomatic,99.0,168.0,0,132.0,No,No,24.3,0
+235,58,Male,typical angina,120.0,282.0,0,149.0,No,Yes,24.3,0
+524,59,Male,asymptomatic,149.0,236.0,0,151.0,Yes,Yes,23.1,1
+318,61,Female,atypical angina,124.0,280.0,0,140.0,No,No,26.3,0
+695,65,Male,asymptomatic,150.0,289.0,1,145.0,Yes,No,26.0,1
+527,64,Male,atypical angina,116.0,266.0,0,131.0,Yes,No,25.5,0
+264,56,Female,atypical angina,133.0,139.0,0,144.0,No,No,30.2,0
+976,56,Female,asymptomatic,160.0,205.0,0,162.0,Yes,No,23.5,0
+200,49,Male,non-anginal,,220.0,0,143.0,No,No,31.6,0
+151,41,Male,asymptomatic,124.0,205.0,0,189.0,Yes,No,26.3,0
+823,45,Female,asymptomatic,148.0,256.0,0,161.0,No,No,27.4,0
+88,55,Male,non-anginal,135.0,230.0,0,169.0,No,No,22.5,0
+148,54,Male,non-anginal,127.0,272.0,0,152.0,No,No,32.9,0
+500,52,Male,atypical angina,135.0,,1,143.0,Yes,No,25.5,1
+672,44,Male,non-anginal,,358.0,0,166.0,Yes,No,23.3,0
+841,50,Male,asymptomatic,123.0,168.0,0,162.0,Yes,No,22.8,0
+559,67,Female,non-anginal,134.0,257.0,1,152.0,Yes,No,34.0,0
+373,66,Female,asymptomatic,143.0,267.0,0,152.0,Yes,No,29.7,0
+277,53,Male,asymptomatic,143.0,305.0,0,157.0,No,No,27.2,0
+44,53,Male,asymptomatic,145.0,234.0,0,162.0,No,No,29.2,0
+531,46,Male,asymptomatic,151.0,203.0,0,184.0,Yes,Yes,29.7,0
+636,63,Male,atypical angina,124.0,242.0,1,161.0,No,No,30.7,1
+371,59,Female,typical angina,150.0,282.0,0,158.0,No,Yes,35.8,1
+852,50,Female,non-anginal,108.0,156.0,1,146.0,No,No,31.1,0
+444,62,Female,non-anginal,154.0,271.0,0,147.0,No,No,30.0,0
+1003,45,Male,asymptomatic,131.0,315.0,0,147.0,No,No,26.9,0
+884,45,Female,asymptomatic,142.0,0.0,0,164.0,Yes,Yes,34.1,0
+609,55,Male,non-anginal,116.0,260.0,1,157.0,Yes,Yes,18.8,0
+595,49,Male,non-anginal,134.0,234.0,0,153.0,No,No,28.9,0
+995,58,Male,asymptomatic,120.0,,0,150.0,Yes,Yes,27.6,1
+457,63,Male,atypical angina,156.0,200.0,1,168.0,No,No,33.1,0
+385,55,Male,non-anginal,117.0,282.0,0,158.0,No,Yes,28.5,0
+284,53,Male,non-anginal,129.0,247.0,0,167.0,Yes,No,32.6,0
+889,51,Male,asymptomatic,110.0,183.0,0,158.0,No,Yes,25.6,0
+901,57,Male,asymptomatic,153.0,260.0,1,171.0,Yes,No,25.9,0
+25,47,Male,typical angina,120.0,202.0,0,145.0,Yes,No,29.1,0
+631,55,Male,non-anginal,121.0,190.0,0,156.0,No,No,23.3,0
+711,42,Male,atypical angina,141.0,239.0,0,175.0,No,Yes,34.1,0
+687,77,Male,non-anginal,162.0,236.0,0,148.0,No,No,31.3,0
+696,53,Female,non-anginal,154.0,267.0,0,153.0,No,No,31.9,0
+675,36,Male,asymptomatic,141.0,271.0,0,,Yes,No,,0
+391,57,Male,asymptomatic,124.0,271.0,0,168.0,No,No,,0
+393,65,Male,atypical angina,148.0,275.0,1,,No,No,21.8,1
+557,35,Male,non-anginal,99.0,261.0,0,159.0,Yes,No,28.1,0
+27,54,Female,asymptomatic,112.0,272.0,1,187.0,No,No,29.5,0
+586,34,Male,asymptomatic,126.0,199.0,0,172.0,No,No,31.1,0
+640,40,Female,asymptomatic,103.0,169.0,0,169.0,Yes,Yes,29.3,0
+606,39,Male,typical angina,102.0,203.0,0,160.0,Yes,No,32.7,0
+937,63,Male,asymptomatic,148.0,291.0,0,125.0,Yes,No,26.8,1
+193,54,Female,asymptomatic,115.0,268.0,0,148.0,Yes,No,25.9,0
+132,41,Male,asymptomatic,130.0,159.0,0,185.0,Yes,No,29.5,0
+671,62,Female,asymptomatic,140.0,222.0,0,158.0,No,No,30.2,0
+778,74,Male,typical angina,129.0,276.0,0,142.0,Yes,No,32.2,0
+301,49,Male,non-anginal,115.0,291.0,0,135.0,No,Yes,,0
+967,63,Male,non-anginal,153.0,251.0,0,153.0,No,No,24.9,0
+203,62,Male,non-anginal,150.0,126.0,0,123.0,No,Yes,28.8,0
+970,52,Male,atypical angina,131.0,225.0,0,146.0,No,Yes,27.9,0
+513,58,Male,non-anginal,161.0,302.0,0,195.0,No,No,28.7,0
+960,40,Male,asymptomatic,107.0,295.0,0,169.0,Yes,No,31.0,0
+34,43,Male,atypical angina,116.0,240.0,0,190.0,Yes,No,29.9,0
+957,48,Female,atypical angina,132.0,286.0,0,154.0,No,No,26.9,0
+204,55,Female,asymptomatic,128.0,294.0,0,128.0,Yes,Yes,28.0,1
+304,70,Male,asymptomatic,135.0,148.0,0,130.0,No,No,,0
+581,53,Male,atypical angina,131.0,206.0,1,163.0,No,No,29.3,0
+194,41,Male,asymptomatic,117.0,,0,202.0,Yes,No,26.1,0
+381,53,Male,atypical angina,119.0,275.0,0,,No,No,23.1,0
+721,58,Male,asymptomatic,121.0,225.0,0,175.0,No,Yes,33.9,0
+455,53,Female,non-anginal,141.0,216.0,0,181.0,Yes,No,,0
+377,47,Male,atypical angina,122.0,228.0,0,,No,Yes,25.1,0
+897,45,Male,non-anginal,40.0,269.0,0,162.0,No,Yes,25.9,0
+255,50,Male,non-anginal,146.0,265.0,0,172.0,No,No,31.4,0
+196,45,Male,atypical angina,92.0,291.0,0,173.0,No,Yes,27.5,0
+739,41,Male,non-anginal,111.0,301.0,0,168.0,No,No,30.5,0
+150,47,Male,non-anginal,92.0,204.0,0,177.0,No,Yes,28.6,0
+849,73,Male,asymptomatic,,262.0,1,140.0,Yes,No,31.1,0
+245,49,Female,asymptomatic,150.0,240.0,0,165.0,No,No,18.3,0
+788,73,Male,typical angina,110.0,304.0,0,163.0,Yes,No,26.8,0
+689,63,Male,asymptomatic,155.0,249.0,0,144.0,Yes,No,29.9,1
+793,49,Male,atypical angina,105.0,120.0,0,159.0,No,No,,0
+55,44,Male,asymptomatic,144.0,209.0,0,159.0,Yes,Yes,28.4,1
+290,51,Male,asymptomatic,123.0,163.0,0,139.0,No,No,,0
+541,61,Female,asymptomatic,140.0,354.0,0,135.0,No,No,35.3,0
+52,45,Male,atypical angina,127.0,186.0,0,162.0,No,No,25.2,0
+26,63,Female,asymptomatic,139.0,260.0,0,172.0,No,No,24.5,0
+467,44,Female,non-anginal,152.0,283.0,0,165.0,Yes,Yes,26.0,0
+402,70,Male,non-anginal,145.0,263.0,0,131.0,No,No,21.5,0
+506,66,Female,non-anginal,139.0,162.0,1,169.0,Yes,Yes,30.6,1
+461,49,Female,atypical angina,118.0,198.0,1,142.0,No,No,29.3,0
+248,31,Female,asymptomatic,92.0,156.0,0,181.0,Yes,Yes,36.0,0
+830,36,Male,non-anginal,110.0,277.0,0,176.0,No,No,27.7,0
+374,50,Male,atypical angina,112.0,237.0,0,156.0,No,No,23.8,0
+435,44,Male,typical angina,,198.0,0,171.0,No,No,25.3,0
+701,56,Male,asymptomatic,156.0,261.0,0,151.0,No,No,29.3,0
+339,52,Male,non-anginal,106.0,258.0,0,162.0,No,No,19.3,0
+698,48,Male,non-anginal,136.0,206.0,1,129.0,Yes,Yes,24.4,0
+914,61,Female,atypical angina,124.0,246.0,1,171.0,Yes,No,26.8,0
+845,44,Male,asymptomatic,123.0,151.0,1,178.0,No,No,34.1,0
+950,57,Male,asymptomatic,129.0,252.0,0,126.0,No,Yes,33.4,1
+758,50,Male,asymptomatic,143.0,,1,155.0,No,No,27.9,0
+228,58,Female,non-anginal,,232.0,0,146.0,No,No,26.0,1
+731,58,Male,asymptomatic,140.0,176.0,0,184.0,No,No,27.1,1
+93,54,Female,atypical angina,118.0,0.0,0,162.0,Yes,No,19.0,0
+560,47,Male,non-anginal,120.0,230.0,0,167.0,Yes,Yes,26.2,0
+742,59,Female,asymptomatic,159.0,331.0,0,149.0,Yes,Yes,25.9,0
+351,44,Female,atypical angina,151.0,218.0,0,,No,Yes,27.4,0
+162,61,Male,asymptomatic,139.0,231.0,0,167.0,No,No,28.6,0
+748,55,Male,asymptomatic,151.0,261.0,0,147.0,Yes,No,26.7,1
+223,55,Male,typical angina,110.0,254.0,0,154.0,No,No,26.3,0
+285,68,Male,atypical angina,152.0,274.0,0,154.0,No,Yes,23.1,0
+424,59,Male,non-anginal,139.0,156.0,0,148.0,No,Yes,26.6,0
+563,36,Male,typical angina,0.0,179.0,0,174.0,Yes,No,19.8,0
+5,48,Male,asymptomatic,124.0,343.0,0,153.0,Yes,Yes,,0
+101,57,Male,non-anginal,,261.0,0,148.0,Yes,No,24.9,0
+244,61,Male,asymptomatic,143.0,257.0,0,149.0,Yes,No,24.2,1
+279,51,Male,asymptomatic,121.0,,0,154.0,No,No,23.9,0
+246,62,Male,asymptomatic,140.0,261.0,0,160.0,Yes,No,26.0,0
+498,44,Male,asymptomatic,123.0,348.0,0,141.0,Yes,Yes,25.8,0
+736,63,Male,asymptomatic,115.0,197.0,0,141.0,Yes,No,24.0,1
+181,63,Male,asymptomatic,157.0,166.0,0,154.0,No,Yes,30.4,0
+35,48,Female,non-anginal,123.0,201.0,0,174.0,No,No,24.7,0
+286,49,Male,asymptomatic,121.0,315.0,0,160.0,Yes,Yes,27.9,0
+543,41,Male,atypical angina,137.0,316.0,0,163.0,No,No,29.3,0
+90,40,Male,asymptomatic,119.0,213.0,0,183.0,No,No,39.6,0
+820,42,Male,atypical angina,120.0,203.0,0,148.0,No,No,,0
+732,54,Male,non-anginal,172.0,245.0,0,178.0,No,No,29.3,0
+260,36,Female,asymptomatic,107.0,217.0,0,186.0,No,No,29.7,0
+564,57,Male,non-anginal,111.0,263.0,0,158.0,No,No,25.3,1
+263,52,Female,atypical angina,136.0,214.0,0,128.0,No,Yes,32.3,0
+660,54,Male,non-anginal,94.0,240.0,0,172.0,No,No,28.1,0
+219,53,Male,non-anginal,148.0,218.0,0,134.0,No,No,24.0,0
+700,62,Male,atypical angina,153.0,227.0,0,,Yes,No,26.1,0
+308,58,Male,asymptomatic,114.0,190.0,0,138.0,Yes,No,30.5,0
+471,48,Male,asymptomatic,120.0,200.0,0,146.0,Yes,Yes,27.9,0
+267,53,Male,asymptomatic,141.0,287.0,0,172.0,Yes,No,21.1,0
+330,43,Male,asymptomatic,128.0,219.0,1,157.0,Yes,Yes,28.1,0
+423,45,Male,non-anginal,127.0,154.0,0,181.0,No,No,25.7,0
+1024,41,Male,asymptomatic,147.0,132.0,0,169.0,Yes,Yes,25.9,0
+954,56,Female,asymptomatic,141.0,317.0,0,154.0,No,No,25.9,0
+752,66,Male,non-anginal,114.0,152.0,0,149.0,No,No,36.7,0
+654,51,Female,non-anginal,152.0,223.0,0,191.0,No,No,33.4,0
+864,46,Male,non-anginal,146.0,299.0,0,175.0,No,Yes,,0
+591,32,Female,asymptomatic,102.0,,0,148.0,No,No,24.8,0
+860,41,Female,non-anginal,149.0,147.0,0,157.0,No,Yes,30.2,0
+216,64,Female,non-anginal,143.0,239.0,0,171.0,No,Yes,33.0,0
+964,56,Male,non-anginal,142.0,,0,155.0,No,Yes,29.5,1
+826,38,Female,asymptomatic,123.0,190.0,0,187.0,Yes,No,28.5,1
+64,45,Male,asymptomatic,128.0,162.0,0,170.0,Yes,No,26.4,0
+674,53,Male,asymptomatic,109.0,226.0,0,148.0,Yes,Yes,24.0,0
+887,51,Female,non-anginal,129.0,0.0,0,163.0,Yes,Yes,23.6,0
+16,52,Female,non-anginal,118.0,258.0,0,158.0,No,Yes,21.3,0
+274,59,Male,atypical angina,,300.0,0,155.0,No,Yes,33.3,0
+792,41,Male,asymptomatic,137.0,267.0,0,186.0,No,Yes,22.5,0
+251,62,Female,typical angina,161.0,281.0,0,131.0,Yes,Yes,22.9,1
+933,29,Male,asymptomatic,103.0,200.0,0,186.0,No,No,33.3,0
+574,41,Female,asymptomatic,121.0,277.0,0,167.0,Yes,Yes,21.3,0
+730,39,Male,typical angina,130.0,251.0,0,164.0,No,Yes,27.9,0
+575,59,Male,non-anginal,133.0,325.0,0,144.0,No,No,23.8,0
+853,30,Male,asymptomatic,156.0,,0,200.0,Yes,Yes,29.6,0
+1023,55,Male,non-anginal,121.0,190.0,0,156.0,No,No,23.3,0
+812,59,Male,atypical angina,110.0,209.0,0,129.0,Yes,No,29.4,0
+149,53,Male,atypical angina,159.0,223.0,0,162.0,No,No,29.6,0
+134,50,Male,asymptomatic,138.0,222.0,0,155.0,No,Yes,32.4,0
+982,57,Male,atypical angina,113.0,186.0,0,153.0,No,No,26.2,0
+945,41,Male,atypical angina,128.0,272.0,0,157.0,No,Yes,23.5,0
+293,48,Male,asymptomatic,98.0,261.0,0,176.0,Yes,No,29.3,0
+502,65,Female,typical angina,125.0,174.0,1,118.0,No,No,21.8,0
+685,62,Male,asymptomatic,150.0,296.0,0,156.0,No,Yes,22.2,1
+360,62,Male,asymptomatic,134.0,219.0,0,163.0,Yes,No,23.8,1
+154,65,Male,asymptomatic,125.0,382.0,0,106.0,Yes,No,27.8,1
+298,41,Male,non-anginal,120.0,224.0,0,178.0,No,No,18.7,0
+613,51,Male,non-anginal,125.0,278.0,1,159.0,No,No,,1
+61,73,Female,asymptomatic,198.0,188.0,0,138.0,Yes,No,33.3,0
+939,57,Female,atypical angina,126.0,272.0,0,158.0,No,No,25.7,0
+115,33,Male,asymptomatic,120.0,0.0,1,162.0,Yes,No,31.4,1
+818,55,Male,atypical angina,131.0,235.0,0,161.0,No,No,,0
+669,54,Male,asymptomatic,146.0,268.0,1,116.0,No,No,27.0,0
+305,43,Male,asymptomatic,140.0,222.0,0,179.0,No,No,19.3,0
+145,49,Male,typical angina,,209.0,0,201.0,Yes,No,26.2,0
+366,53,Male,asymptomatic,136.0,270.0,0,147.0,Yes,No,19.9,1
+993,62,Male,asymptomatic,,153.0,0,150.0,Yes,No,29.1,1
+375,51,Female,typical angina,138.0,244.0,0,157.0,No,No,35.3,0
+236,53,Male,asymptomatic,132.0,240.0,0,166.0,Yes,No,24.3,0
+483,53,Male,non-anginal,125.0,0.0,1,146.0,Yes,Yes,,0
+276,57,Male,non-anginal,146.0,207.0,0,147.0,No,No,29.6,0
+600,51,Female,atypical angina,124.0,278.0,1,172.0,No,No,27.4,0
+971,41,Female,atypical angina,105.0,305.0,0,184.0,No,No,29.1,0
+912,46,Male,asymptomatic,147.0,173.0,0,145.0,No,No,32.9,0
+602,67,Male,asymptomatic,102.0,257.0,0,113.0,No,Yes,28.1,0
+95,53,Female,atypical angina,129.0,238.0,0,141.0,No,No,30.1,0
+844,61,Male,asymptomatic,155.0,249.0,0,182.0,No,No,28.7,0
+372,69,Male,asymptomatic,132.0,259.0,1,162.0,No,No,29.4,0
+770,57,Male,typical angina,146.0,211.0,0,145.0,No,No,32.0,0
+663,53,Female,asymptomatic,99.0,,0,186.0,No,Yes,32.1,0
+985,51,Male,non-anginal,132.0,243.0,0,166.0,No,Yes,28.4,0
+57,61,Male,atypical angina,131.0,122.0,0,156.0,Yes,No,27.3,1
+69,54,Female,non-anginal,136.0,191.0,0,176.0,Yes,No,,0
+665,38,Female,asymptomatic,106.0,162.0,0,188.0,Yes,Yes,32.0,0
+87,52,Male,non-anginal,131.0,276.0,0,184.0,No,No,26.7,0
+861,69,Male,non-anginal,141.0,243.0,0,131.0,No,No,22.1,0
+582,58,Male,atypical angina,122.0,205.0,1,147.0,No,No,27.3,0
+336,57,Male,asymptomatic,140.0,206.0,0,144.0,No,Yes,28.8,0
+662,48,Male,asymptomatic,127.0,195.0,1,171.0,No,No,21.5,0
+119,52,Female,non-anginal,111.0,224.0,0,142.0,No,Yes,26.0,0
+785,54,Male,non-anginal,122.0,282.0,0,173.0,No,Yes,25.4,0
+104,62,Male,asymptomatic,152.0,259.0,0,143.0,Yes,Yes,29.4,0
+664,37,Male,asymptomatic,97.0,266.0,0,157.0,Yes,Yes,22.8,1
+144,65,Female,asymptomatic,133.0,231.0,0,175.0,No,No,26.8,0
+988,58,Male,non-anginal,148.0,276.0,0,162.0,No,No,27.0,0
+851,53,Male,non-anginal,115.0,,0,153.0,No,No,,0
+996,73,Male,non-anginal,154.0,242.0,0,153.0,No,Yes,26.3,0
+714,51,Female,asymptomatic,140.0,280.0,0,162.0,Yes,Yes,32.2,0
+744,53,Female,atypical angina,118.0,257.0,0,152.0,No,Yes,20.5,0
+333,42,Male,atypical angina,134.0,248.0,0,149.0,Yes,No,29.1,0
+708,65,Female,non-anginal,,256.0,0,132.0,No,Yes,25.0,1
+329,57,Male,atypical angina,134.0,266.0,0,151.0,No,No,29.4,0
+355,42,Male,non-anginal,103.0,237.0,0,159.0,No,No,31.3,0
+1011,57,Male,asymptomatic,133.0,220.0,0,125.0,No,No,30.8,1
+549,53,Female,asymptomatic,157.0,231.0,1,172.0,Yes,No,31.1,0
+978,54,Female,asymptomatic,122.0,195.0,0,,No,No,26.0,0
+614,42,Female,atypical angina,106.0,323.0,0,152.0,Yes,No,32.5,0
+1013,47,Male,non-anginal,133.0,,0,182.0,No,No,25.1,0
+507,53,Male,non-anginal,137.0,128.0,0,166.0,Yes,No,29.1,0
+475,48,Male,asymptomatic,106.0,180.0,0,153.0,No,No,28.2,0
+816,51,Male,non-anginal,121.0,198.0,1,154.0,Yes,No,,0
+794,36,Male,atypical angina,125.0,242.0,0,175.0,No,No,24.4,0
+657,52,Male,typical angina,126.0,284.0,0,154.0,No,Yes,24.4,0
+70,38,Female,atypical angina,107.0,216.0,0,149.0,No,No,22.9,0
+94,43,Male,typical angina,151.0,120.0,0,147.0,No,No,32.8,0
+190,58,Male,asymptomatic,136.0,277.0,0,166.0,Yes,No,27.1,0
+896,35,Female,non-anginal,151.0,193.0,0,185.0,No,No,25.8,0
+747,58,Male,typical angina,137.0,211.0,0,146.0,Yes,No,23.2,0
+256,55,Male,non-anginal,128.0,217.0,0,111.0,No,No,30.8,0
+800,55,Female,asymptomatic,152.0,282.0,0,,Yes,No,33.3,1
+58,63,Male,asymptomatic,137.0,315.0,0,123.0,No,Yes,27.6,0
+766,65,Male,asymptomatic,169.0,251.0,0,20.0,Yes,No,26.5,0
+684,54,Male,asymptomatic,127.0,,0,149.0,No,Yes,23.3,0
+224,65,Male,asymptomatic,133.0,213.0,1,,No,No,36.4,1
+357,52,Male,asymptomatic,124.0,214.0,0,163.0,No,Yes,18.7,0
+342,56,Male,typical angina,120.0,232.0,0,166.0,Yes,No,24.2,0
+295,55,Male,atypical angina,108.0,247.0,0,177.0,No,No,32.1,0
+639,56,Male,asymptomatic,,219.0,0,133.0,Yes,No,28.7,0
+84,47,Female,non-anginal,147.0,273.0,0,,No,No,30.8,0
+501,36,Male,typical angina,90.0,203.0,0,173.0,No,Yes,32.0,0
+909,55,Female,atypical angina,127.0,238.0,1,149.0,No,Yes,25.7,0
+321,46,Male,asymptomatic,139.0,231.0,0,162.0,Yes,No,25.9,0
+231,47,Male,non-anginal,153.0,229.0,1,194.0,No,Yes,26.9,0
+930,52,Male,asymptomatic,140.0,177.0,0,150.0,Yes,No,,0
+238,63,Male,atypical angina,141.0,197.0,1,144.0,No,No,28.7,0
+99,57,Female,typical angina,146.0,161.0,1,156.0,No,No,,0
+854,42,Male,typical angina,128.0,216.0,0,123.0,Yes,Yes,27.2,0
+745,54,Male,non-anginal,117.0,146.0,0,174.0,No,No,22.5,0
+448,37,Female,asymptomatic,131.0,238.0,0,182.0,No,No,28.2,0
+836,55,Male,non-anginal,138.0,180.0,0,143.0,Yes,No,27.3,0
+648,56,Male,non-anginal,142.0,262.0,0,158.0,No,No,25.3,0
+837,50,Male,non-anginal,97.0,271.0,0,152.0,Yes,Yes,23.3,0
+773,49,Male,asymptomatic,144.0,324.0,0,153.0,Yes,No,26.5,0
+668,41,Male,asymptomatic,116.0,254.0,0,151.0,Yes,Yes,21.5,1
+642,56,Female,non-anginal,138.0,235.0,1,156.0,No,No,32.3,0
+399,44,Male,atypical angina,151.0,333.0,0,155.0,Yes,Yes,23.7,0
+959,51,Male,non-anginal,126.0,258.0,0,142.0,No,No,37.2,0
+965,54,Female,atypical angina,118.0,321.0,0,123.0,No,No,25.9,0
+511,50,Male,non-anginal,139.0,258.0,0,142.0,No,No,,0
+265,65,Male,asymptomatic,150.0,162.0,0,109.0,Yes,Yes,20.6,0
+31,52,Male,asymptomatic,114.0,275.0,0,157.0,Yes,No,23.9,0
+451,52,Female,atypical angina,146.0,219.0,0,167.0,Yes,No,26.4,0
+919,41,Male,typical angina,117.0,240.0,0,177.0,No,No,32.6,0
+221,57,Female,non-anginal,119.0,195.0,0,151.0,No,No,27.9,0
+242,50,Female,non-anginal,179.0,287.0,0,177.0,No,No,24.7,0
+340,52,Female,atypical angina,137.0,248.0,0,152.0,Yes,Yes,25.1,1
+9,65,Female,asymptomatic,160.0,247.0,0,133.0,Yes,No,27.4,0
+1025,52,Female,atypical angina,131.0,200.0,0,122.0,Yes,No,25.1,0
+186,54,Male,non-anginal,129.0,260.0,0,135.0,Yes,No,27.8,0
+189,49,Male,non-anginal,142.0,218.0,0,165.0,No,No,26.0,0
+872,53,Male,atypical angina,107.0,241.0,0,153.0,No,No,31.6,0
+436,46,Male,atypical angina,,138.0,0,163.0,Yes,Yes,30.9,0
+323,56,Male,asymptomatic,127.0,235.0,0,135.0,No,Yes,26.4,0
+141,38,Male,non-anginal,121.0,203.0,0,147.0,No,No,27.3,0
+490,49,Male,non-anginal,117.0,334.0,0,151.0,No,Yes,30.9,1
+1014,59,Male,asymptomatic,136.0,300.0,0,182.0,Yes,No,28.0,1
+612,45,Male,asymptomatic,,238.0,0,172.0,Yes,Yes,,0
+353,52,Male,non-anginal,131.0,255.0,0,159.0,Yes,No,30.1,0
+847,57,Male,asymptomatic,123.0,277.0,0,137.0,No,No,27.0,0
+891,46,Male,asymptomatic,136.0,267.0,0,167.0,Yes,No,26.6,0
+130,65,Female,non-anginal,143.0,263.0,1,147.0,No,No,24.9,0
+146,62,Male,atypical angina,162.0,193.0,0,157.0,No,No,32.7,0
+387,68,Male,asymptomatic,108.0,291.0,0,,Yes,No,,0
+40,53,Male,asymptomatic,121.0,250.0,0,175.0,No,No,26.0,0
+309,55,Male,non-anginal,124.0,230.0,0,158.0,No,No,28.9,0
+169,49,Male,asymptomatic,98.0,247.0,0,152.0,No,No,28.7,0
+384,61,Male,non-anginal,135.0,231.0,0,145.0,No,Yes,27.4,0
+411,64,Male,typical angina,,260.0,0,,Yes,No,34.4,1
+791,61,Female,asymptomatic,163.0,200.0,0,151.0,Yes,No,25.2,0
+917,45,Male,non-anginal,126.0,165.0,0,141.0,No,No,29.4,0
+977,46,Female,atypical angina,119.0,196.0,1,163.0,Yes,Yes,30.5,0
+281,52,Male,typical angina,127.0,223.0,0,157.0,No,No,21.9,0
+991,41,Female,asymptomatic,146.0,203.0,0,160.0,Yes,Yes,22.0,0
+403,50,Female,non-anginal,107.0,231.0,0,136.0,Yes,No,23.8,0
+924,52,Male,typical angina,,208.0,1,157.0,Yes,No,,0
+704,44,Female,asymptomatic,90.0,213.0,0,159.0,No,No,29.8,0
+616,50,Female,non-anginal,116.0,325.0,0,168.0,No,No,31.7,1
+135,56,Male,asymptomatic,115.0,169.0,0,141.0,Yes,No,27.7,0
+725,51,Male,atypical angina,130.0,246.0,0,188.0,No,Yes,22.4,0
+311,45,Female,asymptomatic,114.0,219.0,0,171.0,Yes,No,35.9,0
+303,58,Male,asymptomatic,132.0,208.0,0,152.0,Yes,Yes,,0
+727,47,Male,non-anginal,133.0,,0,182.0,No,No,25.1,0
+237,46,Male,asymptomatic,133.0,232.0,0,155.0,No,No,23.1,0
+691,57,Male,asymptomatic,125.0,154.0,0,154.0,Yes,No,23.0,0
+126,44,Male,non-anginal,127.0,216.0,0,168.0,No,No,18.1,0
+382,71,Male,non-anginal,118.0,381.0,0,121.0,No,No,40.2,0
+438,54,Female,asymptomatic,140.0,263.0,0,151.0,No,No,27.8,0
+866,57,Female,typical angina,166.0,254.0,0,124.0,No,No,29.7,1
+981,76,Male,asymptomatic,171.0,238.0,0,151.0,Yes,No,34.3,1
+777,42,Male,non-anginal,131.0,214.0,0,146.0,No,Yes,28.9,1
+32,53,Male,atypical angina,123.0,197.0,0,172.0,No,Yes,21.2,0
+36,43,Male,asymptomatic,114.0,229.0,0,194.0,Yes,No,30.5,0
+425,66,Male,atypical angina,155.0,318.0,0,169.0,No,No,24.4,0
+166,55,Male,asymptomatic,156.0,259.0,0,300.0,Yes,No,28.2,0
+484,49,Male,asymptomatic,140.0,121.0,0,166.0,Yes,No,22.8,1
+544,61,Male,asymptomatic,126.0,253.0,0,148.0,Yes,No,27.4,0
+743,52,Female,asymptomatic,145.0,242.0,1,177.0,Yes,No,26.1,1
+20,66,Male,atypical angina,115.0,201.0,1,171.0,No,Yes,36.4,0
+492,41,Female,non-anginal,138.0,273.0,0,141.0,Yes,No,,1
+515,45,Male,typical angina,136.0,252.0,0,158.0,Yes,No,,1
+54,54,Male,non-anginal,151.0,225.0,0,180.0,No,Yes,28.1,0
+584,47,Male,asymptomatic,118.0,286.0,0,157.0,No,Yes,21.6,1
+460,43,Female,asymptomatic,90.0,202.0,1,138.0,Yes,Yes,31.0,1
+1019,55,Male,asymptomatic,156.0,259.0,0,300.0,Yes,No,28.2,0
+302,60,Male,asymptomatic,125.0,195.0,0,158.0,No,No,30.1,0
+878,55,Male,asymptomatic,135.0,321.0,0,149.0,No,No,29.8,1
+807,61,Female,asymptomatic,131.0,311.0,0,136.0,Yes,No,24.8,1
+197,43,Male,asymptomatic,120.0,,0,191.0,No,No,28.0,0
+579,53,Male,non-anginal,95.0,215.0,0,146.0,No,Yes,,0
+268,69,Female,asymptomatic,156.0,207.0,0,155.0,Yes,Yes,28.4,0
+572,55,Male,non-anginal,162.0,264.0,0,170.0,No,No,30.7,0
+100,43,Female,asymptomatic,129.0,234.0,0,173.0,No,No,25.0,0
+760,65,Male,asymptomatic,124.0,280.0,0,178.0,No,No,28.6,0
+397,46,Male,non-anginal,119.0,266.0,0,167.0,No,Yes,26.8,0
+367,64,Male,non-anginal,131.0,316.0,0,148.0,No,Yes,29.1,0
+869,46,Female,atypical angina,113.0,330.0,0,,No,No,23.8,0
+994,55,Female,non-anginal,137.0,220.0,0,164.0,No,Yes,26.1,0
+661,51,Female,asymptomatic,120.0,220.0,0,157.0,Yes,No,28.1,0
+365,61,Male,asymptomatic,132.0,289.0,0,153.0,No,No,33.4,0
+611,50,Male,asymptomatic,126.0,246.0,0,171.0,No,Yes,30.3,0
+607,53,Male,non-anginal,132.0,203.0,0,183.0,No,No,32.9,0
+105,61,Male,asymptomatic,107.0,210.0,0,120.0,Yes,No,,0
+974,45,Male,atypical angina,130.0,210.0,0,187.0,No,No,28.9,0
+400,59,Male,asymptomatic,124.0,234.0,0,161.0,No,No,,0
+354,63,Male,atypical angina,165.0,237.0,0,142.0,No,No,33.6,0
+48,63,Male,asymptomatic,114.0,172.0,0,122.0,Yes,No,21.2,0
+218,53,Male,atypical angina,108.0,182.0,0,171.0,No,No,29.2,0
+720,62,Female,non-anginal,143.0,309.0,0,168.0,No,No,31.3,0
+49,43,Male,atypical angina,122.0,321.0,0,196.0,No,No,26.4,0
+14,47,Male,typical angina,148.0,260.0,0,190.0,No,Yes,32.3,0
+913,64,Female,atypical angina,172.0,216.0,0,175.0,No,No,28.4,0
+458,-1,Female,asymptomatic,131.0,313.0,0,131.0,Yes,No,32.3,0
+153,58,Female,asymptomatic,180.0,157.0,0,112.0,No,Yes,26.1,0
+15,55,Female,non-anginal,103.0,249.0,0,158.0,No,No,29.7,0
+706,45,Male,non-anginal,154.0,271.0,0,181.0,No,Yes,19.8,0
+426,51,Male,non-anginal,121.0,173.0,0,153.0,No,No,,0
+356,58,Female,non-anginal,139.0,297.0,0,166.0,No,No,27.8,0
+733,42,Male,atypical angina,121.0,252.0,1,158.0,No,Yes,28.2,0
+109,61,Male,non-anginal,143.0,173.0,0,148.0,No,No,26.1,0
+269,48,Male,typical angina,128.0,285.0,0,169.0,No,No,24.1,0
+486,49,Male,asymptomatic,120.0,200.0,1,169.0,No,No,26.9,0
+798,60,Male,atypical angina,132.0,260.0,0,148.0,No,Yes,31.5,0
+805,56,Female,asymptomatic,150.0,283.0,0,201.0,No,No,19.3,0
+243,59,Female,non-anginal,136.0,232.0,0,172.0,No,No,32.5,0
+565,56,Female,asymptomatic,100.0,253.0,0,161.0,Yes,No,29.6,1
+947,53,Female,asymptomatic,112.0,271.0,1,151.0,Yes,No,34.2,0
+683,57,Male,non-anginal,155.0,229.0,0,175.0,No,No,25.5,0
+966,47,Female,non-anginal,128.0,220.0,1,148.0,Yes,Yes,33.0,0
+495,56,Female,non-anginal,160.0,232.0,0,170.0,No,No,26.2,0
+338,51,Female,atypical angina,133.0,179.0,0,,No,No,33.8,0
+43,66,Male,non-anginal,150.0,256.0,0,132.0,No,No,28.5,0
+682,58,Female,asymptomatic,146.0,232.0,0,159.0,No,No,23.2,1
+961,51,Male,asymptomatic,120.0,287.0,0,163.0,Yes,No,31.4,1
+569,61,Male,asymptomatic,124.0,,0,137.0,No,Yes,22.4,0
+587,56,Female,non-anginal,104.0,322.0,0,147.0,Yes,No,32.1,0
+553,35,Female,non-anginal,149.0,267.0,0,300.0,Yes,Yes,22.0,0
+1007,62,Female,typical angina,161.0,281.0,0,131.0,Yes,Yes,22.9,1
+963,51,Male,non-anginal,105.0,312.0,1,177.0,No,Yes,,0
+227,61,Female,typical angina,121.0,259.0,0,147.0,No,No,,0
+107,58,Male,typical angina,121.0,292.0,0,,No,No,30.9,0
+533,49,Male,asymptomatic,117.0,245.0,0,144.0,Yes,No,28.6,0
+368,63,Male,typical angina,119.0,321.0,0,175.0,No,No,17.0,0
+259,29,Male,non-anginal,119.0,325.0,0,194.0,No,No,33.2,0
+548,56,Male,asymptomatic,152.0,170.0,0,167.0,No,Yes,29.1,0
+278,62,Male,asymptomatic,132.0,245.0,0,154.0,No,Yes,26.6,0
+184,45,Female,non-anginal,127.0,,0,184.0,No,No,33.6,0
+558,47,Female,asymptomatic,105.0,232.0,0,158.0,Yes,Yes,28.2,1
+19,40,Male,non-anginal,146.0,214.0,0,168.0,No,Yes,25.2,0
+63,48,Female,non-anginal,115.0,243.0,0,178.0,No,No,37.3,0
+992,72,Male,asymptomatic,138.0,245.0,0,126.0,No,Yes,25.9,0
+799,43,Male,atypical angina,102.0,131.0,0,170.0,Yes,No,26.6,0
+938,44,Male,asymptomatic,125.0,129.0,0,133.0,Yes,No,25.5,0
+410,46,Male,asymptomatic,90.0,221.0,0,142.0,No,No,31.4,0
+407,41,Male,asymptomatic,114.0,251.0,0,150.0,Yes,Yes,26.9,0
+41,53,Male,asymptomatic,154.0,139.0,0,156.0,Yes,No,27.8,0
+772,60,Male,asymptomatic,182.0,200.0,0,161.0,No,No,20.4,0
+143,68,Female,asymptomatic,121.0,320.0,0,140.0,Yes,Yes,38.4,0
+767,47,Male,non-anginal,135.0,250.0,0,172.0,No,No,31.7,0
+1018,45,Male,non-anginal,154.0,271.0,0,181.0,No,Yes,19.8,0
+33,47,Male,non-anginal,150.0,204.0,0,151.0,Yes,No,29.5,0
+122,74,Male,asymptomatic,127.0,237.0,0,144.0,No,No,30.0,1
+176,41,Male,asymptomatic,147.0,132.0,0,169.0,Yes,Yes,25.9,0
+335,45,Male,asymptomatic,131.0,315.0,0,147.0,No,No,26.9,0
+871,52,Female,atypical angina,146.0,171.0,1,178.0,Yes,No,30.2,0
+404,68,Male,asymptomatic,114.0,284.0,0,144.0,No,Yes,28.9,0
+528,51,Male,atypical angina,139.0,245.0,0,170.0,No,No,31.8,0
+656,58,Male,typical angina,150.0,272.0,0,164.0,No,Yes,33.1,0
+679,42,Female,atypical angina,131.0,,0,194.0,No,No,33.6,0
+171,39,Male,asymptomatic,121.0,165.0,0,180.0,Yes,No,22.4,0
+620,64,Male,asymptomatic,142.0,245.0,0,155.0,Yes,Yes,,1
+11,54,Female,asymptomatic,145.0,235.0,1,187.0,Yes,No,22.3,1
+324,64,Female,non-anginal,139.0,322.0,0,142.0,No,No,27.5,0
+297,62,Male,non-anginal,132.0,217.0,0,178.0,No,No,25.7,0
+272,60,Male,atypical angina,157.0,255.0,0,161.0,No,No,27.4,0
+29,56,Male,asymptomatic,135.0,203.0,1,159.0,No,No,35.1,0
+763,53,Female,asymptomatic,151.0,267.0,0,135.0,No,No,,0
+599,57,Female,non-anginal,148.0,214.0,0,162.0,No,Yes,24.5,0
+300,77,Male,asymptomatic,119.0,287.0,0,127.0,No,Yes,25.0,0
+390,57,Male,typical angina,126.0,210.0,0,152.0,No,No,29.2,0
+110,48,Male,asymptomatic,146.0,213.0,0,166.0,Yes,Yes,30.5,0
+857,60,Male,non-anginal,153.0,202.0,0,134.0,No,No,24.8,0
+550,54,Male,asymptomatic,90.0,,0,171.0,Yes,No,28.6,0
+1006,53,Male,asymptomatic,143.0,305.0,0,157.0,No,No,27.2,0
+751,38,Male,asymptomatic,92.0,,0,163.0,No,Yes,23.3,0
+858,38,Male,non-anginal,132.0,253.0,0,168.0,No,No,25.8,0
+1005,45,Female,non-anginal,127.0,,0,184.0,No,No,33.6,0
+838,48,Female,asymptomatic,134.0,171.0,0,188.0,Yes,No,25.9,0
+646,48,Female,typical angina,121.0,131.0,0,159.0,No,No,20.0,0
+532,73,Male,non-anginal,139.0,270.0,0,128.0,No,No,24.5,1
+470,61,Female,asymptomatic,139.0,320.0,0,148.0,No,No,29.8,0
+296,61,Male,typical angina,142.0,247.0,1,144.0,No,No,26.7,0
+249,55,Male,atypical angina,152.0,275.0,0,169.0,No,No,39.4,0
+474,45,Male,typical angina,97.0,133.0,0,182.0,Yes,No,28.7,0
+421,41,Female,atypical angina,111.0,299.0,0,166.0,No,No,28.2,0
+116,69,Male,asymptomatic,145.0,274.0,0,139.0,Yes,No,24.1,1
+310,29,Female,asymptomatic,144.0,223.0,0,198.0,No,No,24.8,0
+517,48,Male,asymptomatic,141.0,184.0,0,179.0,Yes,No,23.3,0
+822,42,Male,asymptomatic,160.0,159.0,0,164.0,Yes,Yes,20.5,0
+199,49,Male,typical angina,125.0,200.0,0,20.0,No,No,25.7,0
+522,36,Male,non-anginal,121.0,297.0,0,189.0,No,No,29.5,0
+78,49,Male,atypical angina,128.0,211.0,0,,No,No,24.6,0
+283,50,Male,typical angina,133.0,212.0,0,166.0,No,Yes,24.7,0
+925,47,Male,non-anginal,123.0,197.0,0,176.0,No,No,24.2,0
+292,50,Female,typical angina,133.0,,0,162.0,No,No,25.6,0
+585,71,Male,atypical angina,124.0,288.0,0,124.0,No,No,30.9,0
+814,51,Male,asymptomatic,126.0,239.0,0,176.0,No,No,22.9,0
+795,58,Male,non-anginal,149.0,174.0,0,,No,No,29.3,0
+886,54,Male,asymptomatic,122.0,200.0,0,122.0,Yes,No,20.0,1
+573,62,Male,asymptomatic,140.0,254.0,0,157.0,Yes,No,25.5,0
+262,43,Male,typical angina,120.0,259.0,0,198.0,No,No,23.4,0
+873,47,Male,non-anginal,153.0,295.0,0,152.0,No,Yes,30.0,1
+697,46,Male,typical angina,124.0,234.0,0,171.0,No,No,,0
+703,52,Male,non-anginal,139.0,224.0,1,157.0,No,No,29.2,0
+315,41,Male,asymptomatic,104.0,188.0,1,175.0,Yes,No,26.2,0
+1016,73,Male,non-anginal,126.0,263.0,0,155.0,No,Yes,22.7,0
+610,63,Male,asymptomatic,141.0,275.0,0,164.0,No,Yes,26.9,0
+567,46,Male,non-anginal,111.0,221.0,0,,No,No,20.5,0
+4,59,Female,atypical angina,131.0,223.0,0,150.0,Yes,No,22.4,0
+576,51,Female,asymptomatic,133.0,318.0,0,143.0,No,No,25.4,0
+23,61,Male,asymptomatic,132.0,234.0,0,142.0,Yes,No,21.8,1
+497,44,Female,asymptomatic,133.0,252.0,0,160.0,No,No,30.2,0
+406,35,Female,non-anginal,94.0,250.0,1,194.0,No,No,26.1,0
+634,41,Male,non-anginal,153.0,,0,191.0,No,No,31.7,0
+588,34,Male,asymptomatic,125.0,197.0,0,202.0,Yes,No,36.8,0
+449,42,Male,non-anginal,113.0,284.0,0,174.0,No,No,29.7,0
+828,48,Male,atypical angina,126.0,262.0,0,,No,No,26.2,0
+934,59,Male,asymptomatic,147.0,,0,137.0,Yes,Yes,40.3,1
+312,58,Male,asymptomatic,152.0,341.0,0,159.0,No,No,,0
+605,48,Female,atypical angina,,233.0,0,183.0,No,Yes,25.2,0
+434,47,Female,asymptomatic,131.0,180.0,0,150.0,Yes,No,30.1,0
+422,48,Female,asymptomatic,139.0,202.0,0,160.0,No,No,26.9,0
+633,43,Male,non-anginal,153.0,,1,178.0,No,No,29.2,0
+784,60,Female,typical angina,143.0,244.0,0,155.0,No,No,22.1,0
+147,46,Male,asymptomatic,119.0,267.0,0,159.0,No,No,26.9,0
+487,46,Male,asymptomatic,117.0,143.0,0,160.0,Yes,No,32.6,0
+643,50,Female,typical angina,109.0,286.0,0,158.0,No,No,27.9,0
+275,36,Male,atypical angina,154.0,267.0,0,183.0,Yes,No,29.1,0
+827,50,Female,asymptomatic,131.0,167.0,0,173.0,Yes,Yes,26.2,0
+24,62,Male,asymptomatic,132.0,208.0,0,147.0,No,No,30.8,1
+623,56,Male,asymptomatic,134.0,206.0,0,138.0,Yes,No,26.4,1
+883,44,Male,non-anginal,,0.0,0,155.0,No,No,27.6,0
+140,37,Male,atypical angina,120.0,144.0,0,153.0,No,No,25.6,0
+306,63,Female,atypical angina,135.0,180.0,0,155.0,Yes,No,19.4,0
+756,66,Male,atypical angina,157.0,144.0,0,137.0,No,No,20.2,0
+893,53,Female,asymptomatic,132.0,191.0,0,145.0,No,No,29.4,0
+855,55,Male,non-anginal,108.0,274.0,0,150.0,No,No,32.4,0
+10,32,Female,asymptomatic,112.0,221.0,0,186.0,No,Yes,30.5,0
+652,46,Male,atypical angina,90.0,155.0,0,136.0,No,Yes,25.4,0
+644,53,Male,atypical angina,132.0,351.0,0,171.0,Yes,No,22.7,0
+446,63,Male,non-anginal,163.0,235.0,0,146.0,No,Yes,29.3,0
+688,48,Female,asymptomatic,113.0,161.0,0,153.0,Yes,No,24.2,0
+280,76,Male,atypical angina,133.0,272.0,0,151.0,No,No,18.6,0
+617,42,Male,asymptomatic,142.0,146.0,0,171.0,No,No,24.2,0
+229,57,Male,asymptomatic,111.0,251.0,0,155.0,No,No,32.7,0
+931,48,Male,asymptomatic,134.0,303.0,0,161.0,No,No,31.2,0
+352,48,Male,asymptomatic,106.0,243.0,0,150.0,Yes,Yes,25.4,0
+167,49,Female,asymptomatic,109.0,190.0,0,157.0,Yes,No,35.0,0
+580,47,Female,asymptomatic,132.0,269.0,0,148.0,Yes,No,19.2,0
+885,48,Female,non-anginal,123.0,271.0,0,152.0,Yes,Yes,26.3,0
+520,61,Male,non-anginal,141.0,201.0,0,185.0,Yes,Yes,27.0,0
+632,43,Female,asymptomatic,123.0,175.0,0,162.0,No,No,28.3,0
+316,54,Male,non-anginal,111.0,244.0,0,132.0,No,No,23.0,0
+210,56,Male,asymptomatic,145.0,218.0,0,154.0,No,Yes,26.2,0
+459,62,Female,asymptomatic,173.0,242.0,0,127.0,Yes,No,21.4,0
+332,72,Male,atypical angina,115.0,195.0,0,150.0,No,No,27.1,0
+142,57,Male,non-anginal,141.0,269.0,0,131.0,No,Yes,32.3,0
+97,50,Male,atypical angina,117.0,246.0,0,173.0,No,No,24.5,0
+850,61,Male,asymptomatic,157.0,256.0,0,145.0,Yes,Yes,32.1,0
+589,49,Male,non-anginal,110.0,263.0,0,184.0,No,No,27.7,0
+363,38,Male,non-anginal,123.0,,1,183.0,No,No,25.6,1
+627,47,Male,non-anginal,113.0,273.0,1,178.0,No,No,35.8,0
+175,51,Female,asymptomatic,118.0,189.0,0,161.0,Yes,No,24.5,0
+929,50,Male,atypical angina,122.0,,0,122.0,No,Yes,24.5,1
+394,39,Male,atypical angina,146.0,233.0,0,179.0,No,No,28.2,0
+881,49,Female,typical angina,136.0,293.0,0,151.0,No,No,26.0,0
+409,42,Male,atypical angina,126.0,301.0,0,174.0,Yes,No,23.9,0
+867,60,Male,asymptomatic,103.0,226.0,0,171.0,Yes,No,37.1,0
+713,57,Male,asymptomatic,104.0,236.0,0,146.0,No,Yes,28.8,0
+378,38,Male,asymptomatic,120.0,190.0,0,165.0,Yes,No,24.1,0
+386,51,Male,asymptomatic,122.0,174.0,0,147.0,No,No,20.1,0
+401,33,Male,non-anginal,141.0,169.0,0,188.0,No,No,23.9,0
+719,46,Male,asymptomatic,112.0,221.0,0,167.0,Yes,No,33.5,0
+155,58,Male,atypical angina,142.0,309.0,0,126.0,No,Yes,29.1,0
+750,54,Female,atypical angina,144.0,263.0,0,181.0,No,No,20.7,0
+842,56,Female,non-anginal,156.0,225.0,0,146.0,Yes,Yes,31.4,0
+734,50,Female,atypical angina,132.0,227.0,0,174.0,No,Yes,32.3,0
+18,47,Male,non-anginal,94.0,326.0,0,166.0,No,Yes,27.8,0
+692,58,Female,typical angina,140.0,261.0,1,122.0,No,Yes,32.3,0
+753,66,Male,asymptomatic,130.0,230.0,0,131.0,Yes,Yes,22.9,0
+183,39,Male,typical angina,155.0,336.0,0,123.0,No,No,33.2,0
+510,59,Male,typical angina,135.0,271.0,1,160.0,Yes,No,26.8,0
+677,53,Female,asymptomatic,155.0,200.0,0,147.0,No,No,25.7,0
+359,63,Male,atypical angina,131.0,170.0,0,146.0,Yes,Yes,26.6,1
+307,56,Male,non-anginal,113.0,262.0,1,143.0,No,No,29.9,0
+710,55,Male,atypical angina,143.0,315.0,1,125.0,No,No,31.7,0
+555,74,Male,atypical angina,157.0,358.0,0,166.0,No,No,31.9,1
+253,58,Male,typical angina,128.0,160.0,0,150.0,No,No,29.2,0
+659,49,Female,atypical angina,111.0,243.0,0,155.0,No,Yes,26.1,0
+1021,46,Male,typical angina,124.0,254.0,0,160.0,No,No,24.0,0
+874,46,Male,non-anginal,120.0,150.0,0,170.0,No,No,28.3,0
+594,45,Female,atypical angina,127.0,253.0,1,169.0,Yes,No,29.2,0
+430,48,Female,atypical angina,119.0,179.0,0,162.0,No,No,25.1,0
+608,33,Male,asymptomatic,158.0,258.0,0,188.0,Yes,No,30.3,0
+361,51,Male,asymptomatic,153.0,245.0,0,150.0,Yes,No,33.3,1
+114,53,Female,atypical angina,155.0,290.0,0,150.0,No,No,33.5,0
+712,53,Male,asymptomatic,127.0,192.0,0,172.0,No,No,31.9,0
+516,43,Male,asymptomatic,139.0,283.0,0,191.0,No,No,17.4,0
+472,58,Female,atypical angina,157.0,305.0,0,140.0,No,No,26.3,0
+120,53,Female,typical angina,128.0,167.0,0,155.0,No,No,28.3,0
+420,50,Female,asymptomatic,139.0,238.0,0,146.0,No,No,24.0,0
+456,55,Male,asymptomatic,143.0,225.0,0,116.0,Yes,Yes,23.4,0
+622,42,Male,asymptomatic,122.0,261.0,0,145.0,No,No,32.6,0
+479,49,Female,asymptomatic,146.0,240.0,0,173.0,Yes,No,33.7,0
+131,42,Male,typical angina,151.0,227.0,0,171.0,No,No,25.7,0
+637,64,Male,typical angina,127.0,255.0,1,128.0,No,No,29.3,0
+962,49,Female,non-anginal,133.0,229.0,0,146.0,No,No,31.8,0
+789,52,Female,non-anginal,117.0,219.0,0,137.0,No,No,24.2,0
+969,47,Male,non-anginal,126.0,161.0,1,153.0,No,No,28.9,0
+273,65,Male,atypical angina,153.0,158.0,0,153.0,No,No,24.0,0
+833,34,Male,non-anginal,116.0,254.0,0,175.0,No,Yes,29.2,0
+670,49,Male,typical angina,158.0,231.0,0,152.0,No,No,31.3,0
+979,56,Female,atypical angina,141.0,284.0,0,128.0,No,Yes,25.0,0
+103,55,Female,asymptomatic,96.0,269.0,0,139.0,No,No,22.6,0
+536,38,Male,asymptomatic,124.0,246.0,0,171.0,No,No,33.4,0
+552,64,Male,asymptomatic,159.0,279.0,0,150.0,No,No,26.6,0
+984,48,Male,asymptomatic,129.0,205.0,0,149.0,Yes,No,23.1,0
+7,59,Male,atypical angina,148.0,210.0,0,152.0,No,No,24.9,0
+172,58,Female,asymptomatic,133.0,302.0,0,171.0,Yes,No,27.0,0
+596,58,Female,non-anginal,105.0,240.0,0,157.0,No,No,29.4,0
+846,999,Male,atypical angina,125.0,237.0,0,147.0,Yes,No,25.7,0
+380,60,Female,atypical angina,154.0,282.0,0,158.0,No,No,29.0,0
+741,32,Female,atypical angina,104.0,,0,182.0,No,Yes,23.7,0
+645,50,Male,typical angina,131.0,160.0,1,152.0,No,Yes,32.5,0
+774,57,Male,asymptomatic,95.0,198.0,0,168.0,No,Yes,19.6,1
+433,67,Female,asymptomatic,119.0,174.0,0,130.0,Yes,No,32.2,0
+45,59,Male,asymptomatic,122.0,224.0,0,152.0,No,No,27.8,0
+667,63,Male,asymptomatic,136.0,255.0,1,149.0,Yes,No,36.8,0
+98,52,Male,non-anginal,143.0,235.0,0,166.0,Yes,No,26.4,0
+999,67,Male,non-anginal,116.0,204.0,1,149.0,No,No,32.0,0
+505,41,Male,atypical angina,,243.0,0,173.0,Yes,No,23.4,0
+494,48,Female,atypical angina,122.0,252.0,0,150.0,No,No,32.7,0
+918,42,Female,asymptomatic,132.0,251.0,0,152.0,Yes,No,23.0,0
+416,51,Male,asymptomatic,122.0,170.0,0,156.0,Yes,No,24.3,0
+21,43,Male,atypical angina,0.0,301.0,0,146.0,No,No,30.2,0
+718,56,Female,typical angina,147.0,343.0,0,152.0,No,Yes,32.1,0
+754,31,Female,non-anginal,0.0,244.0,0,184.0,Yes,Yes,24.3,0
+783,45,Male,non-anginal,111.0,277.0,1,166.0,No,No,23.5,0
+726,54,Male,non-anginal,118.0,288.0,0,179.0,No,Yes,35.3,0
+334,52,Female,asymptomatic,143.0,270.0,0,132.0,No,No,26.7,0
+489,49,Male,non-anginal,142.0,242.0,0,160.0,Yes,Yes,21.7,0
+542,52,Male,asymptomatic,,254.0,0,166.0,Yes,No,25.1,0
+65,71,Male,asymptomatic,148.0,296.0,0,185.0,Yes,Yes,35.3,1
+877,52,Female,asymptomatic,151.0,274.0,0,160.0,Yes,No,27.0,0
+746,67,Male,asymptomatic,144.0,266.0,0,146.0,No,No,36.9,0
+615,68,Male,atypical angina,128.0,215.0,0,140.0,No,No,30.6,0
+755,54,Male,typical angina,147.0,186.0,0,172.0,No,Yes,24.3,0
+473,55,Male,asymptomatic,142.0,201.0,0,136.0,Yes,No,23.8,0
+192,51,Male,atypical angina,141.0,155.0,0,135.0,No,No,23.1,0
+920,64,Male,non-anginal,120.0,219.0,0,104.0,No,No,,0
+358,58,Male,asymptomatic,129.0,274.0,0,150.0,Yes,No,28.6,0
+230,63,Male,asymptomatic,152.0,157.0,0,173.0,No,No,,1
+749,65,Male,atypical angina,148.0,253.0,0,162.0,No,No,26.7,0
+521,48,Male,non-anginal,115.0,179.0,0,175.0,Yes,Yes,30.6,0
+870,55,Male,atypical angina,141.0,270.0,0,149.0,No,Yes,26.7,0
+554,41,Male,asymptomatic,121.0,120.0,0,169.0,Yes,No,18.9,1
+998,42,Female,asymptomatic,124.0,189.0,0,149.0,No,Yes,30.3,0
+102,60,Female,asymptomatic,138.0,206.0,0,158.0,No,No,25.3,0
+157,49,Male,non-anginal,126.0,215.0,1,154.0,No,No,33.9,0
+624,49,Male,asymptomatic,126.0,246.0,0,184.0,No,No,25.7,0
+735,66,Male,typical angina,141.0,256.0,0,130.0,No,Yes,,0
+232,57,Male,atypical angina,134.0,219.0,0,113.0,No,Yes,27.2,0
+989,61,Male,asymptomatic,144.0,238.0,0,150.0,Yes,No,23.8,0
+206,43,Male,asymptomatic,133.0,181.0,0,168.0,No,No,42.8,0
+161,57,Male,asymptomatic,148.0,255.0,0,150.0,No,No,23.2,0
+811,50,Male,asymptomatic,139.0,248.0,0,141.0,Yes,No,,0
+986,42,Male,asymptomatic,131.0,293.0,0,177.0,No,No,21.9,0
+680,57,Male,asymptomatic,116.0,273.0,0,178.0,Yes,Yes,22.6,1
+159,43,Male,asymptomatic,127.0,308.0,0,182.0,Yes,Yes,28.5,0
+195,63,Male,non-anginal,115.0,236.0,0,131.0,No,Yes,26.5,0
+77,50,Male,asymptomatic,114.0,182.0,0,155.0,No,No,34.8,0
+1,52,Male,typical angina,128.0,161.0,0,173.0,No,Yes,26.8,0
+112,45,Male,atypical angina,115.0,243.0,0,144.0,No,Yes,29.1,0
+796,37,Female,asymptomatic,126.0,194.0,0,179.0,No,No,36.1,0
+313,50,Male,atypical angina,156.0,220.0,0,186.0,No,No,28.4,0
+566,44,Female,non-anginal,125.0,164.0,0,160.0,No,No,22.7,0
+445,43,Female,asymptomatic,154.0,207.0,0,202.0,No,No,27.1,0
+254,58,Male,atypical angina,121.0,182.0,0,163.0,Yes,Yes,30.8,0
+108,51,Female,asymptomatic,119.0,,0,132.0,Yes,No,21.4,0
+466,65,Male,atypical angina,142.0,162.0,0,142.0,No,No,26.7,0
+1022,46,Male,asymptomatic,,222.0,0,151.0,No,No,,0
+1009,41,Male,atypical angina,137.0,316.0,0,163.0,No,No,29.3,0
+413,48,Male,typical angina,100.0,199.0,1,176.0,No,No,25.6,0
+787,57,Female,atypical angina,139.0,257.0,0,137.0,No,No,22.8,0
+848,62,Male,non-anginal,141.0,288.0,0,105.0,No,Yes,31.3,1
+769,38,Female,atypical angina,104.0,247.0,1,166.0,No,Yes,27.7,0
+831,67,Male,asymptomatic,138.0,,0,151.0,Yes,Yes,31.0,1
+935,50,Male,asymptomatic,155.0,212.0,0,143.0,Yes,No,31.1,0
+556,54,Male,asymptomatic,104.0,270.0,0,152.0,No,No,21.4,0
+647,61,Male,atypical angina,91.0,307.0,0,159.0,No,Yes,25.7,0
+905,58,Female,atypical angina,135.0,204.0,0,176.0,No,No,32.7,0
+117,60,Female,typical angina,130.0,180.0,1,147.0,No,No,29.0,0
+651,49,Female,non-anginal,117.0,291.0,0,147.0,No,No,21.5,0
+345,61,Female,asymptomatic,111.0,205.0,0,300.0,No,No,17.6,0
+518,46,Male,asymptomatic,136.0,198.0,0,154.0,Yes,No,30.8,1
+86,55,Female,atypical angina,152.0,318.0,1,161.0,No,No,30.3,0
+765,60,Female,non-anginal,142.0,369.0,0,141.0,No,Yes,30.8,0
+922,45,Male,asymptomatic,107.0,325.0,0,174.0,Yes,Yes,26.7,1
+418,48,Male,asymptomatic,129.0,231.0,1,155.0,No,No,27.6,0
+496,50,Male,typical angina,161.0,128.0,1,187.0,No,No,26.6,0
+835,51,Male,non-anginal,129.0,247.0,1,134.0,No,No,26.4,0
+220,58,Female,typical angina,116.0,291.0,0,180.0,Yes,No,26.6,0
+209,58,Female,non-anginal,134.0,165.0,0,140.0,No,No,25.1,0
+983,60,Male,asymptomatic,105.0,295.0,1,152.0,Yes,Yes,26.4,0
+1004,36,Male,non-anginal,110.0,277.0,0,176.0,No,No,27.7,0
+809,67,Male,atypical angina,131.0,280.0,0,149.0,No,No,,1
+690,48,Male,typical angina,160.0,272.0,0,174.0,No,Yes,24.0,0
+395,66,Male,asymptomatic,131.0,335.0,0,147.0,No,No,29.5,1
+915,55,Male,asymptomatic,140.0,,0,144.0,No,No,29.2,0
+625,62,Male,non-anginal,107.0,235.0,0,129.0,No,Yes,29.8,0
+514,66,Female,non-anginal,130.0,180.0,0,151.0,No,Yes,33.1,0
+894,48,Female,non-anginal,152.0,278.0,0,179.0,No,No,27.9,1
+904,54,Male,typical angina,119.0,287.0,0,139.0,Yes,No,27.2,0
+212,44,Male,asymptomatic,133.0,235.0,0,156.0,Yes,No,25.5,1
+911,50,Male,asymptomatic,135.0,183.0,0,144.0,Yes,Yes,31.9,0
+570,48,Female,asymptomatic,135.0,254.0,0,176.0,Yes,No,25.1,0
+865,59,Male,asymptomatic,102.0,275.0,0,196.0,No,Yes,29.5,0
+182,74,Male,atypical angina,116.0,205.0,0,132.0,No,No,29.5,0
+233,58,Female,atypical angina,131.0,256.0,0,157.0,Yes,No,21.3,0
+879,75,Male,atypical angina,130.0,250.0,0,141.0,No,No,28.8,1
+250,53,Male,non-anginal,125.0,120.0,0,140.0,Yes,No,29.5,0
+956,63,Male,asymptomatic,125.0,245.0,1,135.0,Yes,No,25.9,0
+447,58,Female,asymptomatic,140.0,256.0,0,163.0,Yes,Yes,30.0,0
+775,48,Male,atypical angina,128.0,206.0,0,150.0,No,No,18.4,0
+469,52,Male,atypical angina,151.0,213.0,0,157.0,Yes,No,26.8,0
+843,41,Male,atypical angina,111.0,191.0,0,164.0,No,Yes,32.7,0
+168,74,Female,asymptomatic,127.0,210.0,0,178.0,No,No,31.3,0
+443,52,Male,non-anginal,146.0,294.0,0,187.0,Yes,No,25.5,0
+715,58,Female,atypical angina,122.0,236.0,0,132.0,Yes,No,33.7,1
+547,47,Female,atypical angina,117.0,212.0,0,194.0,No,No,30.0,0
+408,64,Male,non-anginal,156.0,295.0,0,144.0,No,No,33.7,0
+462,45,Male,typical angina,120.0,285.0,0,111.0,Yes,No,24.8,0
+123,60,Female,asymptomatic,,209.0,0,131.0,Yes,No,30.3,0
+128,45,Male,atypical angina,90.0,282.0,0,181.0,No,Yes,31.0,0
